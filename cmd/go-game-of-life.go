@@ -33,6 +33,7 @@ func NewLife(w, h int) *Life {
 }
 
 func main() {
+	// Flag info from here https://gobyexample.com/command-line-flags
 	width := flag.Int("width", 10, "Width of CytoGrid")
 	height := flag.Int("height", 10, "Height of CytoGrid")
 

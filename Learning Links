@@ -1,0 +1,14 @@
+# Command Line Args
+https://gobyexample.com/command-line-arguments
+https://gobyexample.com/command-line-flags
+
+# Go Program layout
+https://github.com/golang-standards/project-layout
+https://github.com/vmware-tanzu/velero
+
+# Importing modules
+https://stackoverflow.com/questions/29898400/import-struct-from-another-package-and-file-golang
+
+# Other Go Game of Life Examples
+https://github.com/SimonWaldherr/cgolGo/blob/master/life/init.go
+http://www.markusz.io/posts/2018/04/13/go-part1-game-of-life/
