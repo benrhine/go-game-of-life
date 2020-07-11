@@ -2,6 +2,7 @@ package main
 
 import (
 	"benrhine.com/go-game-of-life/internal/app/go-game-of-life/models"
+	"benrhine.com/go-game-of-life/internal/app/go-game-of-life/services"
 	"flag"
 	"fmt"
 	"math/rand"
